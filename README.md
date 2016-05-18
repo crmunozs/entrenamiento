@@ -1,2 +1,0 @@
-# entrenamiento
-Esto es entrenamiento
